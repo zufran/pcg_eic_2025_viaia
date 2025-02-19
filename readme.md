@@ -18,9 +18,9 @@ docs/ : Contient la documentation supplémentaire et les guides d'utilisation.
 Le premier script utilisera la librairie Python PyMuPDF
 https://github.com/pymupdf/PyMuPDF
 
-
 Liste des scripts
-- 01_pdf_to_txt.py
+- 01_complet.py  extrait tout le PDF vers TXT
+- 02_comptes.py  extrait uniquement le plan de compte du PDF au format TXT
 
 
 
